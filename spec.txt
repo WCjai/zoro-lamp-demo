@@ -1,0 +1,5 @@
+shadow width = 136.9 cm
+shadow length = 123.9 cm
+
+light source height = 15 cm
+
